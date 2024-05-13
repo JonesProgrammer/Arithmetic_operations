@@ -1,0 +1,14 @@
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Arithmetic_operations\Arithmetic_operations\bin\Debug\net8.0\Arithmetic_operations.exe
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Arithmetic_operations\Arithmetic_operations\bin\Debug\net8.0\Arithmetic_operations.deps.json
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Arithmetic_operations\Arithmetic_operations\bin\Debug\net8.0\Arithmetic_operations.runtimeconfig.json
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Arithmetic_operations\Arithmetic_operations\bin\Debug\net8.0\Arithmetic_operations.dll
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Arithmetic_operations\Arithmetic_operations\bin\Debug\net8.0\Arithmetic_operations.pdb
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net8.0\Arithmetic_operations.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net8.0\Arithmetic_operations.AssemblyInfoInputs.cache
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net8.0\Arithmetic_operations.AssemblyInfo.cs
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net8.0\Arithmetic_operations.csproj.CoreCompileInputs.cache
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net8.0\Arithmetic_operations.dll
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net8.0\refint\Arithmetic_operations.dll
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net8.0\Arithmetic_operations.pdb
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net8.0\Arithmetic_operations.genruntimeconfig.cache
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net8.0\ref\Arithmetic_operations.dll
